@@ -1,0 +1,22 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+    "micro-timestamp": "^0.1.0"
+  },
+  "description": "Generate 128bit hex unique id using true random seed, micro-second timestamp and counter for entropy",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "main": "lib/random-unique-id.js",
+  "name": "random-unique-id",
+  "repository": "warncke/random-unique-id",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.0"
+}
