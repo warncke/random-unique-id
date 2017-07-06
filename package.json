@@ -1,7 +1,7 @@
 {
   "author": "Ersun Warncke <ersun.warncke@gmail.com>",
   "dependencies": {
-    "micro-timestamp": "0.1.21"
+    "micro-timestamp": "0.1.22"
   },
   "description": "Generate 128bit hex unique id using true random seed, micro-second timestamp and counter for entropy",
   "devDependencies": {
@@ -18,5 +18,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
